@@ -1,0 +1,10 @@
+name: PlayerPosTracker
+version: 1.0.1
+author: Patti4832
+description: Player position tracker plugin
+main: de.patti4832.playerpostracker.Main
+
+commands:
+  tracker:
+    description: Enables / Disables the position tracker or returns the current position
+    usage: /tracker [on|off|get|list|quiet] <[Player]>
