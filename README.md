@@ -27,3 +27,5 @@ The contained JSON data looks like this:
 All commands require op.
 The tracking takes place every 10 seconds.
 At the moment this plugin only saves 10.000 trackings (the tracking is also displayed in the console; to disable the console output, use the command /tracker quiet to toggle the console output).
+
+You can use the tool.py to analyse the data
