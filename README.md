@@ -1,6 +1,8 @@
 # Spigot-PlayerPosTracker
 Plugin to track the positions of selected Minecraft players on the server
 
+Spigot link: https://www.spigotmc.org/resources/playerpostracker.88095/
+
 - To track the position of a player, simply type /tracker on <[Player]>.
 - To remove the Player, just type in /tracker off <[Player]>.
 - To list all tracked players, type /tracker list.
